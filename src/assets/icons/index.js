@@ -1,0 +1,17 @@
+export const Icons = {
+	plusIcon: require('./plus.png'),
+	rupeeIcon: require('./rupee.png'),
+	rupeesIcon: require('./rupees.png'),
+	billIcon: require('./bill.png'),
+	boxIcon: require('./box.png'),
+	fastFoodIcon: require('./fast-food.png'),
+	transportationIcon: require('./transportation.png'),
+	medicineIcon: require('./medicine.png'),
+	schedule: require('./schedule.png'),
+	gasIcon: require('./gas-pump.png'),
+	entertainmentIcon: require('./content.png'),
+	insuranceIcon: require('./insurance.png'),
+	shoppingIcon: require('./mobile-shopping.png'), 
+	clothingIcon: require('./clothes.png'),
+	miscellIcon: require('./magic-box.png'),
+}
